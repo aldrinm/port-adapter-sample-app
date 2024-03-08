@@ -19,7 +19,9 @@
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
         <org.mapstruct.version>1.5.5.Final</org.mapstruct.version>
+        <undertow.version>6.2.7.Final</undertow.version>
     </properties>
 
     <dependencies>
