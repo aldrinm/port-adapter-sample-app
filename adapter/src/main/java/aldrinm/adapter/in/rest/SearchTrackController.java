@@ -1,5 +1,6 @@
 package aldrinm.adapter.in.rest;
 
+import aldrinm.adapter.out.persistence.inmemory.InMemoryRepository;
 import aldrinm.application.port.in.SearchTracksUseCase;
 import aldrinm.model.Track;
 import jakarta.ws.rs.GET;
